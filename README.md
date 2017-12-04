@@ -2,4 +2,4 @@
 My first repository
 
 
-I like Harry Potter
+I like Potter
